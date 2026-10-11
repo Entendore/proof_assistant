@@ -1,0 +1,15 @@
+# Interactive Proof Assistant
+# Requirements for running the proof assistant
+
+# Core dependencies
+python>=3.10
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Streamlit web interface
+streamlit>=1.28.0
+
+# Optional: for enhanced functionality
+# typing_extensions>=4.0.0
